@@ -1,5 +1,6 @@
 import re
 
+#ここで何かしらの編集をおこないます
 
 zen ="""The Zen of Python, by Tim Peters
 
